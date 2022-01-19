@@ -2,12 +2,9 @@
 
 # Capacitor Apple Login
 
-[![npm](https://img.shields.io/npm/v/capacitor-apple-login.svg)](https://www.npmjs.com/package/capacitor-apple-login)
-[![npm](https://img.shields.io/npm/dt/capacitor-apple-login.svg?label=npm%20downloads)](https://www.npmjs.com/package/capacitor-apple-login)
-
 ## Installation
 
-- `npm i https://github.com/rlfrahm/capacitor-apple-login`
+- `yarn add https://github.com/Facil-Piezas/capacitor-apple-login`
 
 ## Usage (iOS)
 
